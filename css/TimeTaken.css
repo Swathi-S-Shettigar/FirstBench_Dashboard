@@ -1,0 +1,17 @@
+.time-taken {
+  padding: 20px;
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.time-taken h3 {
+  font-size: 18px;
+  color: #3b82f6;
+  margin-bottom: 15px;
+}
+
+.time-taken p {
+  font-size: 14px;
+  color: #64748b;
+}

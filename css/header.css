@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background: #1e293b;
+  color: white;
+}
+
+.header .logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #3b82f6;
+}
+
+.header nav ul {
+  display: flex;
+  gap: 20px;
+}
+
+.header nav ul li {
+  font-size: 16px;
+  color: #e2e8f0;
+}
+
+.header .profile {
+  width: 40px;
+  height: 40px;
+  background: #3b82f6;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}

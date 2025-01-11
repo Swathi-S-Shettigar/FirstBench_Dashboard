@@ -1,0 +1,26 @@
+.improvement-card {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.improvement-card h3 {
+  font-size: 18px;
+  color: #3b82f6;
+}
+
+.improvement-card .subjects {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.improvement-card .subject {
+  background: #e0f2fe;
+  color: #0ea5e9;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 12px;
+}
